@@ -1,4 +1,4 @@
-# elainehua10's First CS193 Homework
+# Elaine Huang's First CS193 Homework
 
 ### Some of my favorite things about CS193
 - the TA's seem very helpful and nice
